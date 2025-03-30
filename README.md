@@ -12,4 +12,4 @@ Um jogo simples de **Pedra, Papel e Tesoura** feito em Java, onde você joga con
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jokenpo-java.git
+   git clone https://github.com/eduardoferre/Jokenpoo.git
